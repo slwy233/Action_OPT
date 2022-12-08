@@ -7,7 +7,7 @@ phh=y
 #修复BUG（建议别开）
 fixbug=n
 #修复BUG的系统（和上面的对应上面是y才能用这个功能）
-fix=flyme
+fix=miui
 
 
 
